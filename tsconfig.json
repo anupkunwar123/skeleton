@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "outDir": "./src/",
+        "rootDir": "src-ts",
+        "target": "ES5",
+        "strict": true,
+        "jsx": "react",
+        "moduleResolution": "node",
+        "allowJs": true,
+        "alwaysStrict": true,
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "esModuleInterop": true,
+    },
+    "include": [
+        "src-ts/server"
+    ]
+}
